@@ -4,7 +4,7 @@ A simple RESTful API for order management, built with Node.js and Express. Allow
 
 
 ## DEMONSTRATION
-![Demo GIF](/assets/preview.gif)
+![Demo GIF](/assets/preview(1).gif)
 
 
 ---
