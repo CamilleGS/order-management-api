@@ -2,6 +2,13 @@
 
 A simple RESTful API for order management, built with Node.js and Express. Allows you to create, list, update, delete, and change the status of orders with unique IDs generated via UUID.
 
+
+## DEMONSTRATION
+![Demo GIF](/assets/preview.gif)
+
+
+---
+
 ## Features
 
 - **GET** `/order`: Retrieve all orders.
@@ -36,9 +43,5 @@ The server will be running on http://localhost:3000/order.
 ## Testing
 Use Insomnia or Postman to test the API endpoints.
 
-## DEMONSTRATION
-![Demo GIF]('assets/preview.gif')
-
----
-Author 
+## Author 
 _CamilleGS_
